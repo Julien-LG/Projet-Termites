@@ -1,0 +1,31 @@
+Fiche Projet Termites
+
+Nom : Le Goff Julien
+Bonne connexion : oui
+Micro : oui
+Numero de telephone : 06-75-02-54-21
+
+executables : 
+- testtermite
+- testcoord
+- testgrille
+
+Commandes pour compiler (dans la console de Linux ou bash Windows 10):
+- make testtermite
+- make testcoord
+- make testgrille
+
+Commandes pour executer les tests :
+- ./testtermite
+- ./testcoord
+- ./testgrille
+
+
+Pour executer le projet avec interface graphique (dans Codeblocks) :
+- Execution en "Release" (GUI Application)
+
+
+
+( /!\ En cas de soucis avec SFML voir le dossier "Configuration_CodeBlocks")
+
+( /!\En cas de problème de .dll il faut copier le contenu du dossier "bin" de SFML et le coller dans le dossier bin de MinGW)
